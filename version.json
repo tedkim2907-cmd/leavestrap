@@ -1,1 +1,6 @@
-
+{
+  "release": 1,
+  "version": "V.F (b2)",
+  "notes": "정식 버전",
+  "download": "https://github.com/tedkim2907-cmd/leavestrap"
+}
