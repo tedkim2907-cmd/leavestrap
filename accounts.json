@@ -8,6 +8,7 @@
       "iterations": 240000,
       "active": true,
       "expires": "",
+      "role": "admin",
       "note": "7.25.10.12"
     }
   ]
