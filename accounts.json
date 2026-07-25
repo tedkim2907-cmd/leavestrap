@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "accounts": [
+    {
+      "id": "mango",
+      "salt": "47b0b1526b4e3fc4df33aa5ae4c05b69",
+      "hash": "5310148ed1cbe288b8425a2bfc4b7a99cfed6290f697e19ddde26a566d686790",
+      "iterations": 240000,
+      "active": true,
+      "expires": "",
+      "note": "7.25.10.12"
+    }
+  ]
+}
